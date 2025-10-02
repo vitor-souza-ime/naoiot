@@ -112,6 +112,3 @@ The program automatically creates a timestamped output folder:
 MIT License.
 See [LICENSE](LICENSE) for details.
 
-
-Do you want me to also include an **example ThingSpeak dashboard screenshot** section in the README (with a placeholder image), so people can see how alerts are visualized?
-```
